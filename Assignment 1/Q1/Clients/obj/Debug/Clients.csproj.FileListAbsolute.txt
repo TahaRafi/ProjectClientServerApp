@@ -1,0 +1,9 @@
+c:\users\taha\documents\visual studio 2015\Projects\ClientServerApplication\Clients\bin\Debug\Clients.exe.config
+c:\users\taha\documents\visual studio 2015\Projects\ClientServerApplication\Clients\bin\Debug\Clients.exe
+c:\users\taha\documents\visual studio 2015\Projects\ClientServerApplication\Clients\bin\Debug\Clients.pdb
+c:\users\taha\documents\visual studio 2015\Projects\ClientServerApplication\Clients\obj\Debug\Clients.exe
+c:\users\taha\documents\visual studio 2015\Projects\ClientServerApplication\Clients\obj\Debug\Clients.pdb
+C:\Users\taha\Desktop\Assignment 1\Q1\Clients\obj\Debug\Clients.csprojResolveAssemblyReference.cache
+C:\Users\taha\Desktop\Assignment 1\Q1\Clients\obj\Debug\Clients.exe
+C:\Users\taha\Desktop\Assignment 1\Q1\Clients\obj\Debug\Clients.pdb
+C:\Users\taha\Desktop\Assignment 1\Q1\Clients\bin\Debug\Clients.exe.config

@@ -1,0 +1,19 @@
+c:\users\taha\documents\visual studio 2015\Projects\FinalChattingApp\ChattingServer\bin\Debug\ChattingServer.exe.config
+c:\users\taha\documents\visual studio 2015\Projects\FinalChattingApp\ChattingServer\bin\Debug\ChattingServer.exe
+c:\users\taha\documents\visual studio 2015\Projects\FinalChattingApp\ChattingServer\bin\Debug\ChattingServer.pdb
+c:\users\taha\documents\visual studio 2015\Projects\FinalChattingApp\ChattingServer\bin\Debug\ChattingInterfaces.dll
+c:\users\taha\documents\visual studio 2015\Projects\FinalChattingApp\ChattingServer\bin\Debug\ChattingInterfaces.pdb
+c:\users\taha\documents\visual studio 2015\Projects\FinalChattingApp\ChattingServer\obj\Debug\ChattingServer.csprojResolveAssemblyReference.cache
+c:\users\taha\documents\visual studio 2015\Projects\FinalChattingApp\ChattingServer\obj\Debug\ChattingServer.exe
+c:\users\taha\documents\visual studio 2015\Projects\FinalChattingApp\ChattingServer\obj\Debug\ChattingServer.pdb
+C:\Users\taha\Desktop\Assignment 1\Q2\ChattingServer\bin\Debug\ChattingServer.exe.config
+C:\Users\taha\Desktop\Assignment 1\Q2\ChattingServer\obj\Debug\ChattingServer.exe
+C:\Users\taha\Desktop\Assignment 1\Q2\ChattingServer\obj\Debug\ChattingServer.pdb
+C:\Users\taha\Desktop\Assignment 1\Q2\ChattingServer\bin\Debug\ChattingServer.exe
+C:\Users\taha\Desktop\Assignment 1\Q2\ChattingServer\bin\Debug\ChattingServer.pdb
+C:\Users\taha\Desktop\Assignment 1\Q2\ChattingServer\bin\Debug\ChattingInterfaces.dll
+C:\Users\taha\Desktop\Assignment 1\Q2\ChattingServer\bin\Debug\ChattingInterfaces.pdb
+C:\Users\taha\Desktop\Assignment 1\Q2\ChattingServer\obj\Debug\ChattingServer.csprojResolveAssemblyReference.cache
+C:\Users\taha\Desktop\Study\Seamester 8\Fyp2\IPT\Assignment\Assignment 1\Q2\ChattingServer\bin\Debug\ChattingServer.exe.config
+C:\Users\taha\Desktop\Study\Seamester 8\Fyp2\IPT\Assignment\Assignment 1\Q2\ChattingServer\obj\Debug\ChattingServer.exe
+C:\Users\taha\Desktop\Study\Seamester 8\Fyp2\IPT\Assignment\Assignment 1\Q2\ChattingServer\obj\Debug\ChattingServer.pdb

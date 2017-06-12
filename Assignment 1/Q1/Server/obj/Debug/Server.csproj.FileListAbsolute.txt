@@ -1,0 +1,12 @@
+c:\users\taha\documents\visual studio 2015\Projects\ClientServerApplication\Server\bin\Debug\Server.exe.config
+c:\users\taha\documents\visual studio 2015\Projects\ClientServerApplication\Server\bin\Debug\Server.exe
+c:\users\taha\documents\visual studio 2015\Projects\ClientServerApplication\Server\bin\Debug\Server.pdb
+c:\users\taha\documents\visual studio 2015\Projects\ClientServerApplication\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\taha\documents\visual studio 2015\Projects\ClientServerApplication\Server\obj\Debug\Server.exe
+c:\users\taha\documents\visual studio 2015\Projects\ClientServerApplication\Server\obj\Debug\Server.pdb
+C:\Users\taha\Desktop\Assignment 1\Q1\Server\bin\Debug\Server.exe.config
+C:\Users\taha\Desktop\Assignment 1\Q1\Server\obj\Debug\Server.exe
+C:\Users\taha\Desktop\Assignment 1\Q1\Server\obj\Debug\Server.pdb
+C:\Users\taha\Desktop\Study\Seamester 8\Fyp2\IPT\Assignment\Assignment 1\Q1\Server\bin\Debug\Server.exe.config
+C:\Users\taha\Desktop\Study\Seamester 8\Fyp2\IPT\Assignment\Assignment 1\Q1\Server\obj\Debug\Server.exe
+C:\Users\taha\Desktop\Study\Seamester 8\Fyp2\IPT\Assignment\Assignment 1\Q1\Server\obj\Debug\Server.pdb
